@@ -1,0 +1,6 @@
+{
+  "name": "Padma Premium Makhana",
+  "description": "Premium air-toasted makhana snacks crafted for the health-conscious Gen Z generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
